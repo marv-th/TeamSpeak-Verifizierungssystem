@@ -1,7 +1,7 @@
 
 # TeamSpeak Verifizierungssystem
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
+Mit dem TeamSpeak Verifizierungssystem von #Game OS, kannst du User dazu auffordern sich auf deinem TeamSpeak Server zu verifizieren. Dazu müssen deine Nutzer nur eine einfache Webseite öffnen
 
 ## Funktionen
 

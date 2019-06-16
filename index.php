@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="de">
 <head>
     <meta charset="UTF-8">
@@ -81,7 +81,7 @@
 </form>
 <footer class="page-footer font-small ">
   <div class="footer-copyright text-center py-3">Entwickelt von:
-    <a href="https://mdbootstrap.com/education/bootstrap/"> #Game OS | Game-OS.de Servernetzwerk</a>
+    <a href="https://www.youtube.com/channel/UC4w8WgYfI3KEQaL5vWcrD3Q"> #Game OS | Game-OS.de Servernetzwerk</a>
   </div>
   <small><center>Entdecke
     <a href="https://gosbot.de"> GOSBot</a> - Kostenloser TeamSpeak Musikbot

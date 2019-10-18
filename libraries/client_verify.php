@@ -33,7 +33,7 @@ if ($get_clid==null) {
                         $serverGroupAddClient = $ts3->serverGroupAddClient($config["group"], $client_dbid);
                         if ($serverGroupAddClient["success"]) {
                             if ($config["verify_message"]!=null) {
-                                $ts3->sendMessage(1,$get_clid,$config["verify_message"].' Entdecke [url=https://gosbot.de]GOSBot[/url]! Kostenloser TeamSpeak Musikbot.');
+                                $ts3->sendMessage(1,$get_clid,$config["verify_message"]);
                             }
                             echo "Super!🙌:::Du hast deinen Client erfolgreich verifiziert 😋:::1";
                         } else {

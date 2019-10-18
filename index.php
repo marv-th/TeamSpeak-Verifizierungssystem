@@ -18,7 +18,7 @@
     ini_set("display_errors", 0);
     $server_ssl = strtolower($_SERVER["HTTPS"]);
     if ($config["ssl_check"]=="on" AND $server_ssl!="on") {
-        echo "Diese Seite kann nicht geladen werden, da dies keine Sichere verbindung ist. Kontaktiere den Support";
+        echo "Diese Seite kann nicht geladen werden, da dies keine sichere Verbindung ist. Kontaktiere den Support";
     }
     $ts3 = new ts3admin($config["adress"], $config["query_port"]);
     $connect = $ts3->connect();
